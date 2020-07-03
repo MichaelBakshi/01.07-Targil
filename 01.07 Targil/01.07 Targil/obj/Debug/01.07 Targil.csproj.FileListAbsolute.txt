@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\01.07 Targil\01.07 Targil\bin\Debug\01.07 Targil.exe.config
+C:\Users\Michael\source\repos\01.07 Targil\01.07 Targil\bin\Debug\01.07 Targil.exe
+C:\Users\Michael\source\repos\01.07 Targil\01.07 Targil\bin\Debug\01.07 Targil.pdb
+C:\Users\Michael\source\repos\01.07 Targil\01.07 Targil\obj\Debug\01.07 Targil.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\01.07 Targil\01.07 Targil\obj\Debug\01.07 Targil.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\01.07 Targil\01.07 Targil\obj\Debug\01.07 Targil.exe
+C:\Users\Michael\source\repos\01.07 Targil\01.07 Targil\obj\Debug\01.07 Targil.pdb
